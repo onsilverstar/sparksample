@@ -1,0 +1,16 @@
+drop table account_types;
+drop table account_types_modified;
+drop table accounts;
+drop table accounts_modified;
+drop table bank_branch;
+drop table bank_branch_modified;
+drop table customer;
+drop table customer_modified;
+drop table customer_types;
+drop table customer_types_modified;
+drop table employees_1;
+drop table employees_1_modified;
+drop table merchants;
+drop table merchants_modified;
+drop table transactions;
+drop table transactions_modified;
